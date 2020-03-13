@@ -64,6 +64,7 @@ public class Main {
         }
         System.out.println();
         System.out.println("Modified cities, and orded alphabetically: " + ModifiedArrayCities);
+        System.out.println();
 
         // END FASE 3
 
